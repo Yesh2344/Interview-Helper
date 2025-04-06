@@ -10,3 +10,9 @@
 - ✅ Basic feedback display system
 - ✅ Docker containerization for easy setup
 
+## Tech Stack:
+- Frontend: Next.js, React, Tailwind CSS, shadcn/ui
+- Backend: Flask, SQLAlchemy, JWT
+- Authentication: NextAuth.js, Flask JWT
+- Containerization: Docker, Docker Compose
+
